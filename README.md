@@ -58,8 +58,9 @@ ML-Malware/
 - Tested on **Windows (PowerShell)**
 
 ### System Dependencies
-- Git  
+- *(optional)* Git 
 - Python (with `venv`)
+- C++ Redistributable (If not installed the notebook will allow you to install when it errors)
 - *(Optional)* CUDA‑enabled GPU for PyTorch (CPU fallback supported)
 
 ---
