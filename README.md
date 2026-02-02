@@ -49,7 +49,7 @@
 ├── requirements.txt
 └── README.md</code>
 
-    >Environment Requirements
+    > Environment Requirements
 
     <h3>Python</h3>
     <ul>
