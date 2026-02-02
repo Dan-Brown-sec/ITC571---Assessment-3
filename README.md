@@ -99,7 +99,7 @@ In Jupyter:
 
 > **Note:** Kernel registration ensures reproducibility and avoids environment drift.
 
-### 4. Register the Jupyter kernel (Alternatively)
+### 4. Run directly from active venv (Alternatively)
 
 ```bash
 cd C:\ML-Malware
