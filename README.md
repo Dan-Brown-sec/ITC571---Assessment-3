@@ -1,6 +1,6 @@
 <h1>ML-Malware: Adversarial Robustness and Transferability Analysis</h1>
 
-      ```This repository contains a <strong>reproducible research pipeline</strong> for evaluating
+      This repository contains a <strong>reproducible research pipeline</strong> for evaluating
       <strong>static malware detection models</strong> under <strong>feature-space adversarial attacks</strong>,
       with a particular focus on:
     <ul>
