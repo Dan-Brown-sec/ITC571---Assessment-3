@@ -115,7 +115,9 @@ jupyter lab
 
 ---
 
-## Global Configuration Design
+## Global Configuration Design (To be completed)
+
+> **Note:** all key variables can be set on the notebook cell.
 
 All dataset sizing, paths, and output locations are controlled from:
 
