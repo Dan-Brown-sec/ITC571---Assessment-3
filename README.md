@@ -99,6 +99,14 @@ In Jupyter:
 
 > **Note:** Kernel registration ensures reproducibility and avoids environment drift.
 
+### 4. Register the Jupyter kernel (Alternatively)
+
+```bash
+cd C:\ML-Malware
+.\venv\Scripts\Activate.ps1
+jupyter lab
+```
+
 ### 5. Launch Jupyter
 
 ```bash
