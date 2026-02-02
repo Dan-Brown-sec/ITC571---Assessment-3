@@ -1,0 +1,19 @@
+# Core scientific stack
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+
+# Machine learning
+scikit-learn>=1.3
+joblib>=1.3
+
+# Deep learning (CPU build)
+torch>=2.1
+
+# Plotting / reporting
+matplotlib>=3.7
+
+# Notebook support
+jupyter
+ipykernel
+tqdm
