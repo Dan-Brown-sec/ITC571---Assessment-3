@@ -31,6 +31,9 @@ ML-Malware/
 │   ├── family_evasion.py       # Family-level evasion analysis
 │   └── family_transfer_fgsm.py # NN→RF adversarial transfer (family classification)
 │
+|── data/
+│   └── ember2018/              # EMBER2018 data extraction 
+|
 ├── datasets/
 │   └── ember2018/              # Generated CSV datasets
 │
@@ -65,6 +68,12 @@ ML-Malware/
 - Python (with `venv`)
 - C++ Redistributable (If not installed the notebook will allow you to install when it errors)
 - *(Optional)* CUDA‑enabled GPU for PyTorch (CPU fallback supported)
+- EMBER2018 dataset
+
+- **download Ember from then below source**
+- https://ember.elastic.co/ember_dataset_2018_2.tar.bz2
+
+> **Note:** extract the EMBER dataset into the 'data / ember2018/' subdirectory 
 
 ---
 
