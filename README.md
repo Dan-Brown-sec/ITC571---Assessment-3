@@ -51,7 +51,7 @@
 
     > Environment Requirements
 
-    <h3>Python</h3>
+    < Python >
     <ul>
       <li><strong>Python 3.10 or 3.11 recommended</strong></li>
       <li>Tested on <strong>Windows (PowerShell)</strong></li>
