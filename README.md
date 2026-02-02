@@ -323,5 +323,5 @@ Key libraries:
 
 If you use this repository in academic work, please cite:
 
-> *“Adversarial robustness and transferability analysis of static malware detection models using EMBER features.”*
+> Dan Brown. (2026). Adversarial Robustness and Cross‑Model Transferability Across Malware Families Using EMBER Features. ML‑Malware Repository. https://github.com/Dan-Brown-sec/ITC571---Assessment-3
 
