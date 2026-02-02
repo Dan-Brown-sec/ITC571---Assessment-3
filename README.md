@@ -73,7 +73,17 @@ ML-Malware/
 ### Download Ember from then below source**
 - https://ember.elastic.co/ember_dataset_2018_2.tar.bz2
 
-> **Note:** extract the EMBER dataset into the 'data / ember2018/' subdirectory 
+> **Note:** extract the EMBER dataset into the 'data / ember2018/' subdirectory (files only)
+> This will consist of
+- ember_model_2018.txt
+- train_features_0.jsonl
+- train_features_1.jsonl
+- train_features_2.jsonl
+- train_features_3.jsonl
+- train_features_5.jsonl
+- test_features.jsonl
+- test_features_0.jsonl
+
 
 ---
 
