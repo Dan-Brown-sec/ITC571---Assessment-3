@@ -11,14 +11,14 @@
       <li>Family-level risk ranking and robustness analysis</li>
     </ul>
 
-    <p>
+   
       The project is designed to support <strong>Master’s-level and PhD-ready research</strong>, with strict
       attention to <strong>experimental control</strong>, <strong>numerical stability</strong>, and
       <strong>reproducibility</strong>.
-    </p>
+   
 
     <h2>Repository Structure (High-Level)</h2>
-    <pre class="tree"><code>ML-Malware/
+    <code>ML-Malware/
 │
 ├── malrob/                     # Core Python package
 │   ├── config.py               # Global experiment configuration (single source of truth)
@@ -47,7 +47,7 @@
 │   └── 06_family_adversarial_transfer.ipynb
 │
 ├── requirements.txt
-└── README.md</code></pre>
+└── README.md</code>
 
     <h2>Environment Requirements</h2>
 
