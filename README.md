@@ -68,7 +68,7 @@
 
     <h3>1. Clone the repository</h3>
     <pre><code>git clone &lt;your-repo-url&gt;
-cd ML-Malware</code></pre>
+``` cd ML-Malware</code></pre>
 
     <h3>2. Create and activate a virtual environment</h3>
     <pre><code>python -m venv venv
