@@ -70,7 +70,7 @@ ML-Malware/
 - *(Optional)* CUDA‑enabled GPU for PyTorch (CPU fallback supported)
 - EMBER2018 dataset
 
-- **download Ember from then below source**
+### Download Ember from then below source**
 - https://ember.elastic.co/ember_dataset_2018_2.tar.bz2
 
 > **Note:** extract the EMBER dataset into the 'data / ember2018/' subdirectory 
