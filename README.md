@@ -49,8 +49,8 @@
 ├── requirements.txt
 └── README.md</code>
 
-    > Environment Requirements
-
+   ```Environment Requirements
+```
     < Python >
     <ul>
       <li><strong>Python 3.10 or 3.11 recommended</strong></li>
