@@ -1,84 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>ML-Malware: Adversarial Robustness and Transferability Analysis</title>
-  <style>
-    :root{
-      --bg:#ffffff;
-      --fg:#111827;
-      --muted:#4b5563;
-      --border:#e5e7eb;
-      --codebg:#0b1020;
-      --codefg:#e5e7eb;
-      --link:#2563eb;
-      --mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-      --sans: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
-    }
-    html,body{background:var(--bg); color:var(--fg); margin:0; padding:0; font-family:var(--sans); line-height:1.55;}
-    .wrap{max-width:980px; margin:0 auto; padding:32px 20px 60px;}
-    h1,h2,h3{line-height:1.25; margin:24px 0 10px;}
-    h1{font-size:32px; letter-spacing:-0.02em;}
-    h2{font-size:22px; margin-top:34px; border-top:1px solid var(--border); padding-top:18px;}
-    h3{font-size:18px; margin-top:22px;}
-    p{margin:10px 0;}
-    ul{margin:10px 0 10px 22px;}
-    li{margin:4px 0;}
-    a{color:var(--link); text-decoration:none;}
-    a:hover{text-decoration:underline;}
-    code, pre{font-family:var(--mono);}
-    pre{
-      background:var(--codebg);
-      color:var(--codefg);
-      padding:14px 16px;
-      border-radius:10px;
-      overflow:auto;
-      border:1px solid rgba(255,255,255,0.08);
-      margin:12px 0;
-      font-size:13px;
-    }
-    code.inline{
-      background:#f3f4f6;
-      border:1px solid var(--border);
-      padding:2px 6px;
-      border-radius:6px;
-      font-size:0.95em;
-    }
-    .note{
-      border:1px solid var(--border);
-      background:#fafafa;
-      padding:12px 14px;
-      border-radius:10px;
-      margin:12px 0;
-      color:var(--muted);
-    }
-    .tree{
-      background:#f9fafb;
-      border:1px solid var(--border);
-      color:#111827;
-    }
-    .kbd{
-      font-family:var(--mono);
-      background:#f3f4f6;
-      border:1px solid var(--border);
-      padding:1px 6px;
-      border-radius:6px;
-      font-size:0.95em;
-      color:#111827;
-      white-space:nowrap;
-    }
-  </style>
-</head>
-<body>
-  <main class="wrap">
-    <h1>ML-Malware: Adversarial Robustness and Transferability Analysis</h1>
+<h1>ML-Malware: Adversarial Robustness and Transferability Analysis</h1>
 
-    <p>
       This repository contains a <strong>reproducible research pipeline</strong> for evaluating
       <strong>static malware detection models</strong> under <strong>feature-space adversarial attacks</strong>,
       with a particular focus on:
-    </p>
     <ul>
       <li>Binary malware detection (Benign vs Malware)</li>
       <li>Malware family classification</li>
