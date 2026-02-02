@@ -9,7 +9,7 @@ This repository contains a **reproducible research pipeline** for evaluating
 - Cross‑model transferability (Neural Network → Random Forest)
 - Family‑level risk ranking and robustness analysis
 
-The project is designed for **Master’s‑level and PhD‑ready research**, with strict attention to  
+The project is designed for **Master’s‑level research**, with strict attention to  
 **experimental control**, **numerical stability**, and **reproducibility**.
 
 > **AI Usage Declaration**
