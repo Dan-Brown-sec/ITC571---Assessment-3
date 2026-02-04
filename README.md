@@ -13,7 +13,7 @@ The project is designed for **Master’s‑level research**, with strict attenti
 **experimental control**, **numerical stability**, and **reproducibility**.
 
 > **AI Usage Declaration:**
-AI tools were used to assist with code generation, debugging, and troubleshooting during experimental implementation due to the short timeframe of the assessment. All research design decisions, threat modelling, experimental evaluation, analysis, and interpretation of results were performed by the author. AI tools were not used to generate research findings or conclusions.
+AI tools were used to refactor my jupyter pyhton noteboks into clean functional python scripts now code was changed. AI was used to assist in debugging, and troubleshooting during experimental implementation due to the short timeframe of the assessment. All research design decisions, threat modelling, experimental evaluation, analysis, and interpretation of results were performed by the author. AI tools were not used to generate research findings or conclusions.
 
 ---
 
