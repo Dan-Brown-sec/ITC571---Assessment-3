@@ -139,7 +139,7 @@ jupyter lab
 
 ---
 
-## Global Configuration Design (To be completed)
+## Global Configuration Design (to be completed)
 
 > **Note:** all key variables can be set on the notebook cell.
 
